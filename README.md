@@ -4,12 +4,16 @@
 <img src="3.gif" width="50"/>
 </p>
 <h4> I am a solutions engineer who enjoys solving problems for those I serve with APIs, integrations, code, and more! </h4>
-<p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=highcontrast)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roronoaBoi&theme=highcontrast)
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roronoaBoi&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roronoaBoi&theme=tokyonight)
 

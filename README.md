@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=highcontrast" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roronoaBoi&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roronoaBoi&theme=highcontrast" />
     </td>
   </tr>
 </table>

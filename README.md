@@ -6,9 +6,12 @@
 <h4> I am a solutions engineer who enjoys solving problems for those I serve with APIs, integrations, code, and more! </h4>
 <p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roronoaBoi&show_icons=true&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roronoaBoi&theme=highcontrast)
 
 </p>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roronoaBoi&theme=tokyonight)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
